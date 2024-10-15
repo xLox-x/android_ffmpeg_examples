@@ -1,2 +1,2 @@
-# android_ffmpeg_examples
-Android FFMPEG examples
+# ffmpegDemo
+ffmpeg demo for android
